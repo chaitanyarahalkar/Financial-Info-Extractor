@@ -12,7 +12,7 @@ for i in file_headers_1:
 	for j in file_headers_2:
 		filenames.append(i + "(" +j + ")" + ".csv")
 
-FILE = "" #Path of the text file containing the extracted URLs
+FILE = "company_urls.txt" #Path of the text file containing the extracted URLs
 
 with open(FILE,'r') as f:
 	data = f.read()

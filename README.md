@@ -37,9 +37,9 @@ $ pip install selenium
 
 Else download manually here:
 
-*[Requests](https://pypi.python.org/pypi/requests/)
-*[Beautiful Soup 4](https://pypi.org/project/beautifulsoup4/)
-*[Selenium](https://pypi.org/project/selenium/)
+-[Requests](https://pypi.python.org/pypi/requests/)
+-[Beautiful Soup 4](https://pypi.org/project/beautifulsoup4/)
+-[Selenium](https://pypi.org/project/selenium/)
 
 ```sh 
 $ python url-extractor.py

@@ -23,7 +23,7 @@ This is an information scraper written with the Beautiful Soup package for Pytho
 
 ### Steps Involved
 * Extraction of the URLs for each company using browser automation.
-  PhantomJS(Headless Browser) is used being used for the browser automation part. (Any other browser can also be used)
+  PhantomJS(Headless Browser) is being used for the browser automation part. (Any other browser can also be used)
 * Scraping the data from each URL and storing in CSVs.
 
 Install the dependencies and run the scripts.

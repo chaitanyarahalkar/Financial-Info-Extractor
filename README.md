@@ -28,7 +28,7 @@ This is an information scraper written with the Beautiful Soup package for Pytho
 
 Install the dependencies and run the scripts.
 
-Install BeautifulSoup4,Selenium and Requests using pip.
+Install Beautiful Soup 4,Selenium and Requests using pip.
 ```sh
 $ pip install bs4
 $ pip install requests
@@ -42,6 +42,8 @@ $ pip install selenium
 * [Selenium](https://pypi.org/project/selenium/)
 
 ### Run the scripts:  
+
+Add the path to the Browser Driver in the in the url-extractor script.
 
 ```sh 
 $ python url-extractor.py

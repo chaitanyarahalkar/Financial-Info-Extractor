@@ -28,7 +28,20 @@ This is an information scraper written with the Beautiful Soup package for Pytho
 
 Install the dependencies and run the scripts.
 
+Install BeautifulSoup4,Selenium and Requests using pip.
 ```sh
+$ pip install bs4
+$ pip install requests
+$ pip install selenium
+```
+
+Else download manually here:
+
+[Requests](https://pypi.python.org/pypi/requests/)
+[Beautiful Soup 4](https://pypi.org/project/beautifulsoup4/)
+[Selenium](https://pypi.org/project/selenium/)
+
+```sh 
 $ python url-extractor.py
 $ python extract.py
 ```

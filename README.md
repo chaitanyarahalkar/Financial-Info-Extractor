@@ -1,6 +1,6 @@
 # Finance Information Extractor
 
-This is a python script that allows one to extract financial data for any company from Religare.com. This is written compliant only to the Indian [National Stock Exchange](https://www.nseindia.com/).
+This is a python script that allows one to extract financial data for any company from [Religare](http://religare.com). This is written compliant only to the Indian [National Stock Exchange](https://www.nseindia.com/).
 This is an information scraper written with the Beautiful Soup package for Python.
 
 ### Following information is extracted for the company
